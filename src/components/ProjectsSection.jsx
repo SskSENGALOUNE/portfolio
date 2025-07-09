@@ -20,74 +20,8 @@ const projects = [
     tags: ["AppSheet", "Google Sheet", "App script"],
     demoUrl: "#",
     githubUrl: "#",
-  },
-  {
-    id: 3,
-    title: "E-commerce Platform",
-    description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "#",
-    githubUrl: "#",
-  },
-  {
-    id: 4,
-    title: "E-commerce Platform",
-    description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "#",
-    githubUrl: "#",
-  },
-  {
-    id: 5,
-    title: "E-commerce Platform",
-    description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "#",
-    githubUrl: "#",
-  },
-  {
-    id: 6,
-    title: "E-commerce Platform",
-    description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "#",
-    githubUrl: "#",
-  },
-  {
-    id: 7,
-    title: "SaaS Landing Page",
-    description: "A beautiful landing page app using React and Tailwind.",
-    image: "/projects/project1.png",
-    tags: ["React", "TailwindCSS", "Supabase"],
-    demoUrl: "#",
-    githubUrl: "#",
-  },
-  {
-    id: 8,
-    title: "SaaS Landing Page",
-    description: "A beautiful landing page app using React and Tailwind.",
-    image: "/projects/project1.png",
-    tags: ["React", "TailwindCSS", "Supabase"],
-    demoUrl: "#",
-    githubUrl: "#",
-  },
-  {
-    id: 9,
-    title: "SaaS Landing Page",
-    description: "A beautiful landing page app using React and Tailwind.",
-    image: "/projects/project1.png",
-    tags: ["React", "TailwindCSS", "Supabase"],
-    demoUrl: "#",
-    githubUrl: "#",
-  },
+  }
+ 
 ];
 
 export const ProjectsSection = () => {
